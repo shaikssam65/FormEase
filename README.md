@@ -1,7 +1,7 @@
 # 🤝 Migrant Support — Category-Based Extractor (Open Source)
 
 ## Live Demo
-Check out the live app here: [FormEase Streamlit App](https://formease.streamlit.app/) (https://huggingface.co/spaces/shaiksam65/formfill)
+Check out the live app here: [FormEase Streamlit App](https://huggingface.co/spaces/shaiksam65/formfill)
 
 Paste long text **by category** (Basic Info, Address & Permits, Employment, Housing, Dependents, Financial, plus optional **Education** & **Skills**) and get a clean, editable JSON form out.  
 Runs locally using **Qwen/Qwen2.5-0.5B-Instruct** via Hugging Face `transformers`.
